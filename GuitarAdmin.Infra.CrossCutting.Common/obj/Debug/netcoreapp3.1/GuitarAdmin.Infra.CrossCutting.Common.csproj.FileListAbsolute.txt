@@ -1,0 +1,9 @@
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.deps.json
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.pdb
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.csprojAssemblyReference.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.AssemblyInfoInputs.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.AssemblyInfo.cs
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.csproj.CoreCompileInputs.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.CrossCutting.Common\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.pdb

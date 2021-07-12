@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GuitarAdmin.Infra.Repository/1.0.0": {
+        "dependencies": {
+          "GuitarAdmin.Domain": "1.0.0",
+          "GuitarAdmin.Infra.CrossCutting.Common": "1.0.0"
+        },
+        "runtime": {
+          "GuitarAdmin.Infra.Repository.dll": {}
+        }
+      },
+      "GuitarAdmin.Domain/1.0.0": {
+        "runtime": {
+          "GuitarAdmin.Domain.dll": {}
+        }
+      },
+      "GuitarAdmin.Infra.CrossCutting.Common/1.0.0": {
+        "runtime": {
+          "GuitarAdmin.Infra.CrossCutting.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuitarAdmin.Infra.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuitarAdmin.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GuitarAdmin.Infra.CrossCutting.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

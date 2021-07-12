@@ -1,0 +1,14 @@
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.deps.json
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.pdb
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Domain.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Domain.pdb
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\bin\Debug\netcoreapp3.1\GuitarAdmin.Infra.CrossCutting.Common.pdb
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.csprojAssemblyReference.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.AssemblyInfoInputs.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.AssemblyInfo.cs
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.csproj.CoreCompileInputs.cache
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.csproj.CopyComplete
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.dll
+D:\个人项目\svn版本\GuitarAdminWebNetCore\GuitarAdmin.Infra.Repository\obj\Debug\netcoreapp3.1\GuitarAdmin.Infra.Repository.pdb

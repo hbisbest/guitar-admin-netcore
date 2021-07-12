@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <!--开发环境走的代码-->
+    <environment include="Development">
+        <!--asp-href-include表示包含wwwroot文件夹下css文件夹中的样式文件，asp-href-exclude表示不包含压缩的样式文件-->
+        <link rel="stylesheet" asp-href-include="css/*" asp-href-exclude="css/all.min.css" />
+    </environment>
+    <!--生产环境走的代码-->
+    <environment exclude="Development">
+        <link rel="stylesheet" asp-href-include="css/all.min.css" />
+    </environment>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

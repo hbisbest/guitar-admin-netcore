@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xesX4m3rFlzz+JNAcgQHzB/1wJgaxgStrw8EGLOLGP2074m0owLijbNb3RUe/oqD8st/gydOQGqzqNczhw5/TQ==",
+  "success": true,
+  "projectFilePath": "D:\\个人项目\\svn版本\\GuitarAdminWebNetCore\\GuitarAdmin.Web\\GuitarAdmin.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\98114\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

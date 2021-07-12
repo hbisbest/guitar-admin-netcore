@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GuitarAdmin.Domain\GuitarAdmin.Domain.csproj" />
+    <ProjectReference Include="..\GuitarAdmin.Infra.CrossCutting.Common\GuitarAdmin.Infra.CrossCutting.Common.csproj" />
+  </ItemGroup>
+
+</Project>
